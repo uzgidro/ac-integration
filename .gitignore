@@ -1,0 +1,6 @@
+*.env
+.idea
+
+dev.yaml
+prod.yaml
+local.yaml
