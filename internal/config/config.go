@@ -31,7 +31,7 @@ type MySQLConnect struct {
 }
 
 func MustLoad() *Config {
-	configPath := "./config/prod.yaml"
+	configPath := "./config/config.yaml"
 
 	// check if file exists
 	if _, err := os.Stat(configPath); os.IsNotExist(err) {
