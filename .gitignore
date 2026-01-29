@@ -4,3 +4,6 @@
 dev.yaml
 prod.yaml
 local.yaml
+
+/docs
+/ac-integration

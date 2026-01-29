@@ -1,0 +1,14 @@
+.git
+.gitignore
+.idea
+.vscode
+
+*.env
+*.md
+
+dev.yaml
+prod.yaml
+local.yaml
+
+/docs
+/ac-integration
